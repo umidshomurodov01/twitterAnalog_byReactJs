@@ -1,2 +1,2 @@
-# cd twutter_analog
-## npm start
+1 cd twitter_analog
+2 npm start
